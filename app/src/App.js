@@ -18,6 +18,8 @@ export default function App () {
         Alterar='' 
         Excluir=''/>
 
+        {/* <AddProduto/> */}
+
     </>
 
   )
